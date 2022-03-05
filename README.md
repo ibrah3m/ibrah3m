@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ibrah3m
-- 👀 I’m interested in ... Revers Enginnering , AI ,Web development 
+- 👀 I’m interested in ... Revers Engineering , AI ,Web development 
 - 🌱 I’m currently learning ... vue , solditiy , AI ,Dapps 
 - 💞️ I’m looking to collaborate on ... blockchain development
 - 📫 How to reach me ... www.ibrahem.org
