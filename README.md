@@ -1,3 +1,7 @@
+
+<img src="1641410884400.jpeg">
+
+
 - 👋 Hi, I’m ibrahem aljabr 
 - 👀 I’m interested in ... Revers Engineering , AI ,Web development 
 - 🌱 I’m currently learning ... vue , solditiy , AI ,Dapps 
@@ -9,9 +13,8 @@ ibrah3m/ibrah3m is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrah3m&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrah3m&langs_count=10&layout=compact
-)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrah3m&langs_count=10&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrah3m&show_icons=true&theme=highcontrast)
 
 
 
