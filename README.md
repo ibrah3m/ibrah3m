@@ -10,7 +10,7 @@
 - 👀 I’m interested in ... Revers Engineering , AI ,Web development 
 - 🌱 I’m currently learning ... vue , solditiy , AI ,Dapps 
 - 💞️ I’m looking to collaborate on ... blockchain development
-- 📫 How to reach me ...  [💜 Portfolio](https://www.ibrahem.org)
+- 📫 How to reach me ...  [💜 Website](https://www.ibrahem.org)
 
 <p align="center">
 <a href="https://twitter.com/@IQ_ALD
