@@ -6,7 +6,6 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
-- 👋 Hi, I’m ibrahem aljabr 
 - 👀 I’m interested in ... Revers Engineering , AI ,Web development 
 - 🌱 I’m currently learning ... vue , solditiy , AI ,Dapps 
 - 💞️ I’m looking to collaborate on ... blockchain development
